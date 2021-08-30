@@ -32,19 +32,10 @@
     <link rel="stylesheet" href="FCC-RQM.css" />
   </head>
   <body>
-    <!--
-    <div
-      id="title"
-      class="container-fluid z-index-2 position-fixed text-center"
-    >
-      <h1 class="display-1">Random Quote Machine</h1>
-      <p class="lead">Something silly to entertain you during lockdown!</p>
-    </div>
-    -->
-    <div class="row mx-auto justify-content-center min-vh-100 bg-dark">
+    <div class="row mx-auto justify-content-center min-vh-100 bg-transparent">
       <div class="col-sm-6 my-auto">
-        <div class="card card-block mx-auto bg-light" id="quote-box">
-          <div class="card-header">Random Quote Machine</div>
+        <div class="card card-block mx-auto bg-dark text-light" id="quote-box">
+          <h3 class="card-header text-muted">Random Quote Machine</h3>
           <div class="card-body">
             <blockquote class="blockquote">
               <i class="fas fa-quote-left"></i>
@@ -58,17 +49,12 @@
                 <a
                   href="https://twitter.com/intent/tweet"
                   target="_blank"
+                  title="Tweet this!"
                   class="btn btn-primary social"
                   id="tweet-quote"
                   role="button"
                   ><i class="fab fa-twitter"></i
                 ></a>
-                <!--                 <a href="#" class="social" id="tweet-quote" role="button"
-                  ><i class="fab fa-tumblr-square"></i
-                ></a>
-                <a href="#" class="social" id="tweet-quote" role="button"
-                  ><i class="fab fa-facebook-square"></i
-                ></a> -->
               </div>
               <div class="col-8 text-end">
                 <a href="#" class="btn btn-primary" id="new-quote" role="button"
