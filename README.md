@@ -1,8 +1,10 @@
 # FCC-Random-Quote-Machine
 
+The project is operational [here](https://jwhodge.github.io/FCC-Random-Quote-Machine/FCC-RQM.html#)
+
 This is a freeCodeCamp assignment to build a random quote generator. See the link below.
 
-https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine
+[freeCodeCamp project brief](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
 I used HTML with Bootstrap to give the page structure. Apart from cosmetic changes to colours and fonts all styles are basically drawn from Bootstrap.
 
@@ -17,4 +19,4 @@ The background gradient changer is also optional but I liked it.
 
 I challenged myself to look up and understand the code used and then write my own versions (rather than copy stack overflow solutions or otherwise).
 
-You can see the CodePen file here: https://codepen.io/jwhodge01/full/oNwjKWd
+You can see the CodePen file here: [https://codepen.io/jwhodge01/full/oNwjKWd](https://codepen.io/jwhodge01/full/oNwjKWd)
