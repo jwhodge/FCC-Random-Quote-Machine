@@ -1,5 +1,7 @@
 # FCC-Random-Quote-Machine
 
+![Random Quote Machine Image](https://raw.githubusercontent.com/jwhodge/FCC-Random-Quote-Machine/master/rqm-sample.png)
+
 The project is operational [Github Version](https://jwhodge.github.io/FCC-Random-Quote-Machine/FCC-RQM.html#)
 
 It is also on CodePen here: [CodePen Version](https://codepen.io/jwhodge01/full/oNwjKWd)
@@ -7,6 +9,8 @@ It is also on CodePen here: [CodePen Version](https://codepen.io/jwhodge01/full/
 This is a freeCodeCamp assignment to build a random quote generator. See the link below.
 
 [freeCodeCamp project brief](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+
+![FCC Tests Passing Image](https://raw.githubusercontent.com/jwhodge/FCC-Random-Quote-Machine/master/rqm-tests-passing.png)
 
 I used HTML with Bootstrap to give the page structure. Apart from cosmetic changes to colours and fonts all styles are basically drawn from Bootstrap.
 
