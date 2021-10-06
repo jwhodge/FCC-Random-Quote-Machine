@@ -1,6 +1,8 @@
 # FCC-Random-Quote-Machine
 
-The project is operational [here](https://jwhodge.github.io/FCC-Random-Quote-Machine/FCC-RQM.html#)
+The project is operational [Github Version](https://jwhodge.github.io/FCC-Random-Quote-Machine/FCC-RQM.html#)
+
+It is also on CodePen here: [CodePen Version](https://codepen.io/jwhodge01/full/oNwjKWd)
 
 This is a freeCodeCamp assignment to build a random quote generator. See the link below.
 
